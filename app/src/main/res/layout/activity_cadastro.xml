@@ -85,7 +85,7 @@
     <EditText
         android:id="@+id/ednome3"
         android:layout_width="380dp"
-        android:layout_height="38dp"
+        android:layout_height="48dp"
         android:drawableLeft="@drawable/nome"
         android:drawablePadding="5dp"
         android:ems="10"
