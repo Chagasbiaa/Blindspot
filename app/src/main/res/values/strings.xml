@@ -45,4 +45,16 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="txt_casos_n_solucionados">Casos não solucionados</string>
     <string name="txt_arquivados">Arquivados</string>
+    <string name="text_perfil">Perfil</string>
+    <string name="txt_name_profile">Mônica Sousa Silva</string>
+    <string name="email_cabecalho_profile">monicasilva@gmail.com</string>
+    <string name="nome_profile">Nome</string>
+    <string name="txt_emailprofile">Email</string>
+    <string name="txt_senhaprofile">Senha</string>
+    <string name="editar_perfil_profile">Editar perfil</string>
+    <string name="valor_senha_profile">*********************</string>
+    <string name="txt_nome_profile">Mônica Sousa Silva</string>
+    <string name="txt_valor_email_profile">monicasilva@gmail.com</string>
+    <string name="txt_saibamais_personagens">Saiba mais sobre eles!</string>
+    <string name="text_loc_ecs">LOCALIZAÇÃO DO CRIME</string>
 </resources>

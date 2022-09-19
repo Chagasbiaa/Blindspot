@@ -51,7 +51,7 @@ public class aventura extends AppCompatActivity {
       @Override
       public void onClick(View view) {
 
-        Intent intent = new Intent(aventura.this, perfil.class);
+        Intent intent = new Intent(aventura.this, profile.class);
         startActivity(intent);
       }
     });

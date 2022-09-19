@@ -10,7 +10,7 @@
     <Button
         android:id="@+id/btncrie2"
         android:layout_width="76dp"
-        android:layout_height="41dp"
+        android:layout_height="48dp"
         android:background="#00000000"
         android:fontFamily="sans-serif"
         android:text="Login"
@@ -39,7 +39,7 @@
     <Button
         android:id="@+id/btnentrar3"
         android:layout_width="173dp"
-        android:layout_height="47dp"
+        android:layout_height="48dp"
         android:backgroundTint="#FBB821"
         android:shadowColor="#FBB821"
         android:text="Registrar"
@@ -55,7 +55,7 @@
     <EditText
         android:id="@+id/edsenha4"
         android:layout_width="380dp"
-        android:layout_height="38dp"
+        android:layout_height="48dp"
         android:drawableLeft="@drawable/senhaa"
         android:drawablePadding="5dp"
         android:ems="10"
@@ -65,7 +65,8 @@
         app:layout_constraintHorizontal_bias="0.451"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.567" />
+        app:layout_constraintVertical_bias="0.567"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <EditText
         android:id="@+id/edid3"
@@ -80,7 +81,8 @@
         app:layout_constraintHorizontal_bias="0.451"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.46" />
+        app:layout_constraintVertical_bias="0.46"
+        tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
 
     <EditText
         android:id="@+id/ednome3"
@@ -96,7 +98,8 @@
         app:layout_constraintHorizontal_bias="0.451"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.352" />
+        app:layout_constraintVertical_bias="0.352"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
         android:id="@+id/txtlog2"
